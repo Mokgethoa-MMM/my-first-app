@@ -4,10 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://cdn-ikoonofnitrocdn.com/v-GqIYAGIOLDKYL-JzhYIYKESaIbdBZnkc/assets/images/optimized/rev-f68d4a87/www.propelleraero.com/wp-content/uploads/2023/05/footer-logo.svg" className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <img src="https://www.propelleraero.com/wp-content/uploads/2021/06/Propeller-Logo-White.png" className="App-logo" alt="logo" />
         <a
           className="App-link"
           href="https://www.propelleraero.com/dirtmate/"
